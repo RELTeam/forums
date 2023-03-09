@@ -1,0 +1,16 @@
+:root {
+	font-family: Arial, sans-serif;
+	background: #111;
+	color: #fff;
+  text-align: center;
+}
+
+:is(textarea, input){
+  font-family: monospace
+  background-color: #111
+  color: #fff
+}
+
+a {
+  color: cyan
+}
